@@ -7,7 +7,7 @@ npm install --save happy-m-post-to-trello
 ``
 
 ``
-const { HappyMTrello, getBoardTypes } = require('./src/post-to-trello');
+const { HappyMTrello, getBoardTypes } = require('happy-m-post-to-trello');
 ``
 
 ``
