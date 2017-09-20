@@ -1,6 +1,10 @@
-## happy-m-post-trello
+## happy-m-post-to-trello
 
 Small module for another my app, just to add new card in trello fast.
+
+``
+npm install --save happy-m-post-to-trello
+``
 
 ``
 const { HappyMTrello, getBoardTypes } = require('./src/post-to-trello');
