@@ -14,4 +14,4 @@ const myTrello = new HappyMTrello();
 myTrello.addCard('my_board_type', 'card_header', 'card_desc');
 ``
 
-Use __getBoardType__ to get available boards.
+Use __getBoardTypes__ to get available boards.
