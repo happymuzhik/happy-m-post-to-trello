@@ -10,7 +10,7 @@ npm install --save happy-m-post-to-trello
 const { HappyMTrello, getBoardTypes } = require('happy-m-post-to-trello');
 
 const myTrello = new HappyMTrello();
-myTrello.addCard('my_board_type', 'card_header', 'card_desc');
+myTrello.addCard('my_board_type', 'card_header', 'card_desc', attachments[urls]);
 ```
 
 Use __getBoardTypes__ to get available boards.
